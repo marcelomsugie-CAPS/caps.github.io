@@ -1,7 +1,3 @@
-Teste pra ver o negocio ai
-Nome:Marcelo seiji
-"Se você conhece o inimigo e conhece a si mesmo, não precisa temer o resultado de cem batalhas." - Sun tzu a Arte da Guerra
-
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
@@ -56,7 +52,7 @@ Nome:Marcelo seiji
     <div class="card">
         <span class="badge">Exercício 1</span>
         <h2>Sobre mim</h2>
-        <p>Escreva aqui uma breve apresentação. Exemplo: "Sou aluno(a) de automação e este é meu primeiro site publicado na nuvem."</p>
+        <p>"Se você conhece o inimigo e conhece a si mesmo, não precisa temer o resultado de cem batalhas." - Sun tzu a Arte da Guerra</p>
     </div>
 
     <div class="card">
