@@ -1,0 +1,58 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  line-height: 1.6;
+  background-color: #f4f4f4;
+  color: #333;
+}
+
+.cabecalho {
+  background-color: #6c5ce7;
+  color: white;
+  text-align: center;
+  padding: 30px;
+}
+
+.conteudo {
+  max-width: 800px;
+  margin: 20px auto;
+  padding: 20px;
+  background-color: white;
+  border-radius: 8px;
+}
+
+.destaque {
+  background-color: #ffeaa7;
+  padding: 10px;
+  border-left: 4px solid #f39c12;
+}
+
+.botao {
+  display: inline-block;
+  background-color: #6c5ce7;
+  color: white;
+  padding: 10px 20px;
+  border-radius: 5px;
+  text-decoration: none;
+  margin-top: 15px;
+}
+
+.cartoes {
+  display: flex;
+  gap: 15px;
+  margin-top: 20px;
+}
+
+.cartao {
+  flex: 1;
+  background-color: #636e72;
+  color: white;
+  padding: 40px;
+  text-align: center;
+  border-radius: 6px;
+}
